@@ -1,4 +1,4 @@
-# Omninesh - Adaptive Traffic Signal Control Dashboard
+# OMNImesh - Adaptive Traffic Signal Control Dashboard
 
 Interactive digital twin and empirical evaluation dashboard comparing **Edge Max-Pressure** against **Native Fixed-Time** and **Actuated** traffic signal control across a 17-junction arterial corridor during a 3-hour morning peak (06:00–09:00).
 
